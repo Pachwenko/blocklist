@@ -1,0 +1,13 @@
+semanticlocation-pa.googleapis.com
+incoming.telemetry.mozilla.org
+s.youtube.com
+pinpoint.us-east-1.amazonaws.com
+alb.reddit.com
+e.reddit.com
+api.segment.io
+ssl.google-analytics.com
+unagi-na.amazon.com
+app-measurement.com
+vortex.hulu.com
+settings-win.data.microsoft.com
+device-metrics-us.amazon.com
