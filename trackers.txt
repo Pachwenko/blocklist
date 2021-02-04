@@ -11,4 +11,3 @@ app-measurement.com
 vortex.hulu.com
 settings-win.data.microsoft.com
 device-metrics-us.amazon.com
-ocsp.apple.com
